@@ -3,11 +3,11 @@
   "version": "1.8.0",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "AwesomeKids652",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/AwesomeKids652/StellarLauncher/",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/AwesomeKids652/StellarLauncher/issues"
   },
   "private": true,
   "main": "index.js",
